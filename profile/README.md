@@ -4,6 +4,6 @@ All repositories under `GIS for Water` are being developed and maintained for wa
 
 Please also refer to our [website](https://water-gis.com) to know more about the details of these repositories and our activities.
 
-Welcome to sponsor this project through [open collective](https://opencollective.com/watergis) or [Github sponsor](https://github.com/sponsors/JinIgarashi).
+Welcome to sponsor this project through [Github sponsor](https://github.com/sponsors/JinIgarashi).
 
 This organisation is maintained by [Jin Igarashi](https://jin-igarashi.me). Please do not hesitate to contact us if you have any enquiries! Thanks!
